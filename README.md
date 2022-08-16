@@ -13,8 +13,8 @@ Este es un proyecto para ver como funcionan las tecnologías de static Props y s
 
 > Home
 
-<img width="1212" alt="Captura de pantalla 2022-08-16 144938" src="https://user-images.githubusercontent.com/19938780/184972081-28d04f70-499e-456b-8aa2-853933eedbb3.png">
+<span style="display:block;text-align:center"><img width="1212" alt="Captura de pantalla 2022-08-16 144938" src="https://user-images.githubusercontent.com/19938780/184972081-28d04f70-499e-456b-8aa2-853933eedbb3.png"></span>
 
 > Overview
-
-<img width="680" alt="overview nextjs" src="https://user-images.githubusercontent.com/19938780/184965309-d13993e2-de4e-428f-b6bf-92f8565d99d1.png">
+ 
+<img width="1460" alt="Captura de pantalla 2022-08-16 150217" src="https://user-images.githubusercontent.com/19938780/184974141-4b6b1206-da02-44c9-844b-a2ceabe52502.png">

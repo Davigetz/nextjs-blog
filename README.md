@@ -13,11 +13,7 @@ Este es un proyecto para ver como funcionan las tecnologías de static Props y s
 
 > Home
 
-<img width="496" alt="front-page" src="https://user-images.githubusercontent.com/19938780/184964951-16ff8e19-32e5-4bb1-b51b-d8980fd0ad7c.png">
-
-> Pagina de post
-
-<img width="649" alt="id" src="https://user-images.githubusercontent.com/19938780/184965253-8645b1ec-5be5-4c8c-8b41-685c2327c185.png" >
+<img width="1212" alt="Captura de pantalla 2022-08-16 144938" src="https://user-images.githubusercontent.com/19938780/184972081-28d04f70-499e-456b-8aa2-853933eedbb3.png">
 
 > Overview
 
